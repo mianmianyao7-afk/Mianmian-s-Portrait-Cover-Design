@@ -1,0 +1,4 @@
+interface:
+  display_name: "人像视频封面生成器"
+  short_description: "根据视频主题生成多比例、自然美颜与创作者姿态的醒目封面"
+  default_prompt: "使用 $portrait-video-cover 根据我的照片和视频主题制作一张醒目封面。"
